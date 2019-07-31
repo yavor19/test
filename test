@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <title>ScienceDirect Insights | how Topics offer foundational knowledge</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style type="text/css">
+span.preheader {
+	display: none !important;
+}
+p {
+	color: #505050;
+	font-size: 15px;
+	line-height: 25px;
+	font-family: Arial, Helvetica;
+	margin-top: 0;
+	margin-bottom: 10px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	font-weight: normal;
+}
+h1 {
+	color: #505050;
+	font-size: 28px;
+	line-height: 40px;
+	font-family: Arial, Helvetica;
+	margin-top: 0;
+	padding-top: 0;
+	padding-bottom: 5px;
+	font-weight: bold;
+}
+h2 {
+	color: #505050;
+	font-size: 23px;
+	line-height: 38px;
+	font-family: Arial, Helvetica;
+	margin-top: 0px;
+	padding-top: 0;
+	padding-bottom: 0px;
+	font-weight: normal;
+}
+h3 {
+	color: #FF8200;
+	font-size: 18px;
+	line-height: 35px;
+	font-family: Arial, Helvetica;
+	margin-top: 0;
+	padding-top: 0px;
+	padding-bottom: 5px;
+	font-weight: normal;
+}
+h4 {
+	color: #505050;
+	font-size: 22px;
+	line-height: 35px;
+	font-family: Arial, Helvetica;
+	margin-top: 0;
+	padding-top: 0px;
+	padding-bottom: 5px;
+	font-weight: normal;
+}
+h5 {
+	color: #505050;
+	font-size: 22px;
+	line-height: 20px;
+	font-family: Arial, Helvetica;
+	margin-top: 0;
+	padding-top: 0px;
+	padding-bottom: -5px;
+	font-weight: bold;
+}
+li {
+	color: #505050;
+	font-size: 15px;
+	line-height: 28px;
+	font-family: Arial, Helvetica;
+	margin-top: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+	font-weight: normal;
+}
+table[class="image-frame-center-aligned"] {
+	margin: 0px 0px 0px 16px;
+}
+table[class="image-frame"] {
+	margin: 0px 0px 0px 11px;
+}
+/* OBLIGATORY EMAIL STYLES */
+#outlook a {
+	padding: 0;
+}
+.ReadMsgBody {
+	width: 100%;
+}
+.ExternalClass {
+	width: 100%;
+}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+	line-height: 100%;
+}
+body, table, td, a {
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+table, td {
+	mso-table-lspace: 0pt;
+	mso-table-rspace: 0pt;
+}
+img {
+	-ms-interpolation-mode: bicubic;
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+img {
+	border: 0;
+	height: auto;
+	line-height: 100%;
+	outline: none;
+	text-decoration: none;
+}
+table {
+	border-collapse: collapse !important;
+}
+body {
+	height: 100% !important;
+	margin: 0;
+	padding: 0;
+	width: 100% !important;
+	background-color: #ffffff;
+}
+/* BYE BYE BLUE LINKS + ORPHAN STYLE */
+.appleFooter a {
+	color: #999999 !important;
+	text-decoration: none !important;
+}
+.appleLink a {
+	color: #ffffff !important;
+	text-decoration: none !important;
+}
+.padding-top {
+	padding-top: 20px !important;
+}
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+	color: inherit !important;
+	text-decoration: none !important;
+	font-size: inherit !important;
+	font-family: inherit !important;
+	font-weight: inherit !important;
+	line-height: inherit !important;
+}
+    /* MEDIA QUERY SCREEN 600px */
+       @media screen and (max-width: 600px), screen and (max-device-width: 600px) {
+table[class="responsive-table"] {
+	width: 100%!important;
+}
+table[class="image-frame"] {
+	width: 150px!important;
+	align: left!important;
+}
+table[class="image-frame-center-aligned"] {
+	width: 420px!important;
+	align: left;
+	float: left;
+	text-align: left;
+	margin: 0px 0px 0px 0px;
+}
+table[class="image-td-center-aligned"] {
+	width: 420px!important;
+	align: left!important;
+	padding-left: 0px;
+}
+.templateColumnContainer {
+	display: block !important;
+	width: 100% !important;
+}
+.leftColumnContent {
+	font-size: 16px !important;
+	line-height: 125% !important;
+}
+.rightColumnContent {
+	font-size: 16px !important;
+	line-height: 125% !important;
+}
+.social-wrapper {
+	width: 50% !important;
+	align: right;
+!important;
+}
+h1 {
+	color: #505050;
+	font-size: 22px;
+	line-height: 40px;
+	font-family: Arial, Helvetica;
+	margin-top: 0;
+	padding-top: 0;
+	padding-bottom: 5px;
+	font-weight: bold;
+}
+h4 {
+	color: #505050;
+	font-size: 18px;
+	line-height: 35px;
+	font-family: Arial, Helvetica;
+	margin-top: 0;
+	padding-top: 0px;
+	padding-bottom: 5px;
+	font-weight: normal;
+}
+td[class="block-padding"] {
+	padding: 10px 5% 10px 5% !important;
+	text-align: left;
+}
+td[class="block-padding-center2"] {
+	padding: 10px 5% 20px 5% !important;
+	text-align: center;
+}
+td[class="mobile-width"] {
+	padding: 0 9% !important;
+}
+td[class="section-padding"] {
+	padding: 40px 15px !important;
+}
+td[class="no-padding"] {
+	padding: 0px !important;
+}
+td[class="padding-top"] {
+	padding-top: 40px !important;
+}
+br[class="mobile-hide"] {
+	display: none !important;
+}
+}
+
+       /* MEDIA QUERY SCREEN 480px */
+       @media screen and (max-width: 480px), screen and (max-device-width: 480px) {
+a[class="cta"] {
+	font-size: 16px !important;
+}
+td[class="padding-top"] {
+	padding-top: 25px !important;
+}
+img[id="image-200x200"] {
+	width: 150px !important;
+	float: none;
+}
+img[id="fullwidth-image"] {
+	width: 100% !important;
+	float: none;
+}
+img[id="image-420"] {
+	width: 420px !important;
+	align: left;
+	float: none;
+	margin: 0px 0px 0px 0px;
+}
+table[class="image-frame-center-aligned"] {
+	width: 420px!important;
+	align: left;
+	float: left;
+	text-align: left;
+}
+table[class="image-td-center-aligned"] {
+	width: 420px!important;
+	align: left!important;
+	padding: 0px 0px 0px 0px;
+}
+/*table[class="maincta"]{
+           width:100%!important;
+           align:left!important;
+           }*/
+img[id="image-no-mobile"] {
+	display: none;
+}
+.templateColumnContainer {
+	display: block !important;
+	width: 100% !important;
+}
+.leftColumnContent {
+	font-size: 16px !important;
+	line-height: 125% !important;
+}
+.rightColumnContent {
+	font-size: 16px !important;
+	line-height: 125% !important;
+}
+.social-wrapper {
+	width: 350px;
+!important;
+	align: right;
+!important;
+}
+h1 {
+	color: #505050;
+	font-size: 22px;
+	line-height: 40px;
+	font-family: Arial, Helvetica;
+	margin-top: 0;
+	padding-top: 0;
+	padding-bottom: 5px;
+	font-weight: bold;
+}
+h4 {
+	color: #505050;
+	font-size: 18px;
+	line-height: 35px;
+	font-family: Arial, Helvetica;
+	margin-top: 0;
+	padding-top: 0px;
+	padding-bottom: 5px;
+	font-weight: normal;
+}
+}
+
+       /* MEDIA QUERY SCREEN 350px */
+       @media screen and (max-width: 350px), screen and (max-device-width: 350px) {
+td[class="mobile-width"] {
+	padding: 0 3% !important;
+}
+img[id="image-200x200"] {
+	width: 150px !important;
+	float: none;
+}
+img[id="fullwidth-image"] {
+	width: 100% !important;
+	float: none;
+}
+img[id="image-420"] {
+	width: 330px !important;
+	align: left;
+	float: none;
+	margin: 0px 0px 0px 0px;
+}
+table[class="image-frame-center-aligned"] {
+	width: 330px!important;
+	align: left;
+	float: left;
+	text-align: left;
+}
+table[class="image-td-center-aligned"] {
+	width: 330px!important;
+	align: left!important;
+	padding-left: 0px;
+}
+table[class="maincta"] {
+	width: 100%!important;
+	align: left!important;
+}
+.templateColumnContainer {
+	display: block !important;
+	width: 100% !important;
+}
+.leftColumnContent {
+	font-size: 16px !important;
+	line-height: 125% !important;
+}
+.rightColumnContent {
+	font-size: 16px !important;
+	line-height: 125% !important;
+}
+.social-wrapper {
+	width: 50% !important;
+	align: right;
+!important;
+}
+h1 {
+	color: #505050;
+	font-size: 22px;
+	line-height: 40px;
+	font-family: Arial, Helvetica;
+	margin-top: 0;
+	padding-top: 0;
+	padding-bottom: 5px;
+	font-weight: bold;
+}
+h4 {
+	color: #505050;
+	font-size: 18px;
+	line-height: 35px;
+	font-family: Arial, Helvetica;
+	margin-top: 0;
+	padding-top: 0px;
+	padding-bottom: 5px;
+	font-weight: normal;
+}
+}
+
+
+       /* WEBKIT, CHROME, SAFARI MEDIA QUERY */
+       @media screen and (-webkit-min-device-pixel-ratio: 0) {
+td[class="no-padding"] {
+	padding: 0 !important;
+}
+td[class="title"] {
+	display: block !important;
+	padding-top: 35px;
+}
+td[class="webkit-hide"] {
+	display: none !important;
+}
+}
+
+       /* WEBKIT, CHROME, SAFARI MEDIA QUERY @ 600px */
+       @media screen and (-webkit-min-device-pixel-ratio: 0) and (max-width: 600px) {
+a[class="cta"] {
+	background: #ffffff no-repeat !important;
+	color: #444444 !important;
+}
+}
+       
+       /* WEBKIT, CHROME, SAFARI MEDIA QUERY @ 480px*/
+       @media screen and (-webkit-min-device-pixel-ratio: 0) and (max-width: 480px) {
+td[class="title"] {
+	padding-top: 15px;
+}
+td[class="title-padding"] {
+	padding-top: 10px !important;
+}
+}
+</style>
+    </head>
+    <body>
+<!-- Place preheader between the 1sr span tags--> 
+<span class="preheader" style="text-align:center"></span><span class="preheader">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<!-- Hero Section Starts Here --> 
+<!-- Hero Section Starts Here -->
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+        <td align="center" bgcolor="#ffffff" style="padding: 16px 0 0px 0px; background-color: #ffffff; " width="100%"><table border="0" cellpadding="0" cellspacing="0" class="responsive-table" width="720">
+                <tr>
+                    <td><table border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tr>
+                                <td align="center" bgcolor="#FFFFFF"><table border="0" cellpadding="0" cellspacing="0" class="responsive-table">
+                                        <tr>
+                                            <td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" class="responsive-table" width="100%" >
+                                                    <!-- Choose the wordmark
+https://communications.elsevier.com/res/elsevier_uk/articlechoice.png https://communications.elsevier.com/res/elsevier_uk/elsevier.png https://communications.elsevier.com/res/elsevier_uk/embase.png https://communications.elsevier.com/res/elsevier_uk/engineeringvillage.png https://communications.elsevier.com/res/elsevier_uk/geofacets.png https://communications.elsevier.com/res/elsevier_uk/knovel.png https://communications.elsevier.com/res/elsevier_uk/libraryconnect.png https://communications.elsevier.com/res/elsevier_uk/pharmapendium.png https://communications.elsevier.com/res/elsevier_uk/pure.png https://communications.elsevier.com/res/elsevier_uk/rd-solutions.png https://communications.elsevier.com/res/elsevier_uk/reaxys.png 
+https://communications.elsevier.com/res/elsevier_uk/reaxys_phd_prize.png
+https://communications.elsevier.com/res/elsevier_uk/prize-club.png
+https://communications.elsevier.com/res/elsevier_uk/sciencedirect.png https://communications.elsevier.com/res/elsevier_uk/scival.png https://communications.elsevier.com/res/elsevier_uk/scopus.png https://communications.elsevier.com/res/elsevier_uk/ssrn.png https://communications.elsevier.com/res/elsevier_uk/digitalcommons.png https://communications.elsevier.com/res/elsevier_uk/mendeley.png https://communications.elsevier.com/res/elsevier_uk/quosapv.png https://communications.elsevier.com/res/elsevier_uk/researchintelligence.png https://communications.elsevier.com/res/elsevier_uk/ssrn-blue.png https://communications.elsevier.com/res/elsevier_uk/quosa.png https://communications.elsevier.com/res/elsevier_uk/elsevier.png
+-->
+                                                    
+                                                    <tr>
+                                                        <td valign="middle" align="left" class="padding-top" style="padding-top: 0px; padding-left: 16px;"><a href="https://www.elsevier.com/" title="Elsevier logo" target="_blank"><img align="left" alt="Elsevier" src="https://communications.elsevier.com/res/elsevier_uk/sciencedirect.png" border="0" /></a></td>
+                                                        <td valign="middle" class="padding-top" style="padding: 0px 16px 0px 0px" ><p style="font-size:14px; text-align:right; line-height:0px; color:#007398; margin:0px 0px 16px 0px; font-family:Arial, Helvetica, sans-serif;">Share
+                                                                <%@ include view='NewBranding_Viral' %>
+                                                            </p>
+                                                            <p style="font-size:14px; text-align:right; line-height:0px; color:#FFFFFF; margin:16px 16px 0px 0px; font-family:Arial, Helvetica, sans-serif;"><a href="<%@ include view='MirrorPageUrl' %>"_label="Mirror Page" _type="mirrorPage" style=" color: #007398; font-weight: none; text-decoration:none;">View in a browser</a></p></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="left" class="no-padding" colspan="2" style=" padding-right: 0px;" valign="top"><hr style="border:1px solid #edeeee;"/></td>
+                                                    </tr>
+                                                </table>
+                                                <table width="100%" border="0" cellpadding="16" cellspacing="0" class="responsive-table">
+                                                    <tr>
+                                                        <td align="left" valign="top">
+                                                            <p style="color: #505050; font-size:15px; line-height: 25px; font-family: Arial, Helvetica; font-weight: normal;">Dear <span style="background-color:yellow">[ insert either {first name last name} or generic {colleague} ]</span>,<br /><br />How does <span style="background-color:yellow">[ Account Name ]</span> plan short-term and long-term growth? Whether you are looking to expand in a new market with an existing technology or innovating on an existing technology to grow in an existing or new market – access to contextual knowledge is key before consuming complex research. <br /><br />Over 330,000 ScienceDirect <strong>Topic</strong> pages help researchers on the path to discovery by routing them to critical context sources that are vital to better understand the foundational concepts behind the research.
+                                                            </p>
+                                                            <p align="left"><img alt="Thumbnail of Tech SD Topics" id="fullwidth-image" src="https://www.elsevier.com/__data/assets/image/0007/901627/ACAD_L_SD_INFO_TechSDTopics_WEB.jpeg" width="668"></p>
+                                                            </td>
+                                                    </tr>
+                                                </table></td>
+                                        </tr>
+                                    </table></td>
+                            </tr>
+                        </table></td>
+                </tr>
+            </table>
+                <!-- Hero Section Ends Here --> 
+                
+                <!-- Hero Section Ends Here --> 
+                <!-- Hero Section Ends Here -->
+                
+                <table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF">
+                <tbody>
+                        <tr>
+                        <td style="padding: 0 0 0px 0px; background-color: #FFFFFF; top center no-repeat;background-size: cover;" width="100%" bgcolor="#FFFFFF" align="center"><table class="responsive-table" width="720" cellspacing="0" cellpadding="16" border="0">
+                                <tbody>
+                                    <tr>
+                                        <td><table class="responsive-table" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                <!-- Section Header -->
+                                                <tbody>
+                                                    <tr>
+                                                        <td width="100%" align="left">
+                                                        	<h2 style="color: #505050; font-size:23px; line-height: 38px; font-family: Arial, Helvetica; font-weight: normal; padding-top:5px;">Learn more about Topic pages</h2>
+                                                            
+                                                        </td>
+                                                    </tr>
+                                                    <!-- Content -->
+                                                    <tr>
+                                                        <td valign="top" align="left">
+                                                            <p style="color: #505050; font-size:15px; line-height: 25px; font-family: Arial, Helvetica; font-weight: normal;">ScienceDirect Topic pages combines cutting-edge technology with essential content to enhance the research process. They make it simpler for researchers to explore comprehensive and credible interdisciplinary research and knowledge.
+                                                            </p>
+                                                             <!-- Main CTA starts  -->
+                                                            <table border="0" cellpadding="0" cellspacing="0" class="maincta">
+                                                                <tr>
+                                                                    <td align="center" bgcolor="#007398"><a href="https://www.elsevier.com/__data/assets/pdf_file/0006/901635/ACAD_L_SD_INFO_TechSDTopics_WEB.pdf" style="font-size: 18px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; text-decoration: none; color: #ffffff; text-decoration: none;padding: 12px 18px; border: 3px solid #007398; display: inline-block;" target="_blank" title="Scopus and ScienceDirect Webinars" _label="ScienceDirect-InfoGraphicPDF_EM2_CTA1_BT">ScienceDirect topics overview infographic&nbsp;&nbsp;&#62;</a></td>
+                                                                </tr>
+                                                            </table>
+                                                            <p>&nbsp;</p>
+                                                            <!-- Main CTA ends  -->
+                                                            <p style="color: #505050; font-size:15px; line-height: 25px; font-family: Arial, Helvetica; font-weight: normal">If you have any questions or feedback about ScienceDirect, please reach out to your Elsevier account manager or customer consultant, or kindly <a href="https://service.elsevier.com/app/contact/supporthub/sciencedirect/role/administratorlibrarian/" _label="ScienceDirect_ContactUsLink_EM1_CTA2_TXT" style=" color: #007398; font-weight: none; text-decoration:none;">contact us</a>.<br /><br />Kind regards,<br /><br />Your Elsevier Customer Support Team.
+                                                            </p>
+                                                            </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table></td>
+                                    </tr>
+                                </tbody>
+                            </table></td>
+                    </tr>
+                    </tbody>
+            </table>
+                
+                <!-- footer starts Here --> 
+                <!-- footer starts Here -->
+                
+                <table bgcolor="#EDEEEE" border="0" cellpadding="0" cellspacing="0" width="100%">
+                <style type="text/css">
+                            a:link {
+                            color:#00759b;
+                            }
+                            </style>
+                <tr>
+                        <td align="center" bgcolor="#ffffff" style="padding: 0 0 0px 0px; background-color: #ffffff; top center no-repeat;background-size: cover;" width="100%"><!--Grey content wrapper -->
+                        
+                        <table border="0" cellpadding="0" cellspacing="0" class="responsive-table" width="720">
+                                <tr>
+                                <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                        <tr> </tr>
+                                        
+                                            <td height="1" style="border-top:1px solid #FF8200; font-size:1px; height:1px; line-height:5px">&nbsp;</td>
+                                    </table>
+                                        <table width="100%" border="0" cellpadding="16" cellspacing="0" class="responsive-table">
+                                        <tr>
+                                                <td align="left" valign="top"><!--1 item in 2 column responsive starts here -->
+                                                
+                                                <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateColumns">
+                                                        <tr>
+                                                        <td align="left" valign="middle" width="50%" class="templateColumnContainer"><a href="https://www.elsevier.com" title="Visit our website elsevier.com" target="_blank"><img align="left" alt="Elsevier" src="https://communications.elsevier.com/res/elsevier_uk/elsevier.png" border="0"></a></td>
+                                                        <td valign="middle" width="50%" class="templateColumnContainer"><%@ include view='EmailFooter_SocialButton' %>
+                                                    </table></td>
+                                            </tr>
+                                        <tr>
+                                                <td align="left" valign="top" colspan="2"><p style="line-height:20px; font-size:12px;">
+                                                        <%@ include view='els_emailFooter' %>
+                                                    </p></td>
+                                            </tr>
+                                    </table></td>
+                            </tr>
+                            </table></td>
+                    </tr>
+            </table>
+                
+                <!-- footer ends Here --> 
+                <!-- footer ends Here --></td>
+    </tr>
+    </table>
+</body>
+</html>
